@@ -5,11 +5,11 @@ Página web para poder hacer reservas de mesas en la intranet de un restaurante.
 ```
 Para tener este proyecto en local, hacemos un git clone https://github.com/DaveOC45/PR1def.git
 
-### Para acceder:
-##### Hay dos tipos de usuarios:
+Para acceder:
+Hay dos tipos de usuarios:
 - David, Arnau, Ivan (inicial en mayúsculas) --> Camareros
 - Danny (inicial en mayúsculas) --> Mantenimiento
-##### Contraseñas:
+Contraseñas:
 - David: qweQWE123
 - Arnau: asdASD123
 - Ivan: zxcZXC123
