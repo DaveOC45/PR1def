@@ -1,5 +1,5 @@
 # CONDE-DOCKU21
-## Trabajo realizado por: David Ortega, Ivan Aguinaga, Arnau Balart
+## Página web para poder hacer reservas de mesas en la intranet de un restaurante.
 
 ### IMPORTANTE crear el archivo config.php dentro de services y que contenga (con los datos de vuestro host de base de datos):
 
