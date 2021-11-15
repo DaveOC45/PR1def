@@ -2,13 +2,8 @@
 Página web para poder hacer reservas de mesas en la intranet de un restaurante.
 
 ## Comenzando 🚀
-
 ```
- define("SERVIDOR","localhost");
- define("USUARIO","root");
- define("PASSWORD","");
- define("BD","bd_restaurant");
-```
+Para tener este proyecto en local, hacemos un git clone https://github.com/DaveOC45/PR1def.git
 
 ### Para acceder:
 ##### Hay dos tipos de usuarios:
@@ -19,3 +14,4 @@ Página web para poder hacer reservas de mesas en la intranet de un restaurante.
 - Arnau: asdASD123
 - Ivan: zxcZXC123
 - Danny: admin123
+```
