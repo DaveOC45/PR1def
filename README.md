@@ -30,8 +30,7 @@ Tener instalado xampp con la base de datos metida, el
 sql está en este mismo repositorio en la carpeta bd.
 ```
 ## Instalación 🔧
-
-´´´
+```
 Para meter la base de datos nos vamos a phpmyadmin y ahí 
 en el apartado importar le damos a importar nuestra base de datos
 que sería el fihceor sql-> bd_restaurant.sql
