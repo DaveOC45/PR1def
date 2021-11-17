@@ -15,3 +15,8 @@ Contraseñas:
 - Ivan: zxcZXC123
 - Danny: admin123
 ```
+## Pre-requisitos 📋
+```
+Tener instalado xampp con la base de datos metida, el 
+sql está en este mismo repositorio en la carpeta bd.
+```
