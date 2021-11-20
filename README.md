@@ -76,5 +76,13 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestro GitHub.
 ## Versionado 📌
 Usamos Git para el versionado
 
+## Autores ✒️
+David Ortega
+Arnau Balart
+Iván Aguinaga
 
+## Licencia 📄
+Este proyecto está bajo la Licencia (DawLicense.Sl) 
 
+## Expresiones de Gratitud 🎁
+Gracias a mis compañeros por acompañarme en este proyecto y a los profesores por ayudarme en lo problemas. 🤓
