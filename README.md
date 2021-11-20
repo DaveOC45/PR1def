@@ -58,3 +58,23 @@ nos vamos de vuelta a la página principal de 000webhost y damos clic en el enla
 si podemos introducir el login es que ha funcionado todo correctamente. Aunque veamos que el login funciona no viene de 
 más comprobar que todos los otros apartados de la página funcionen.
 ```
+## Construido con 🛠️
+```
+-XAMPP
+-000webhost
+-PHP
+-JS
+-HTML
+-CSS
+```
+## Contribuyendo 🖇️
+Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestro GitHub.
+
+## Versionado 📌
+Usamos Git para el versionado
+
+
+
