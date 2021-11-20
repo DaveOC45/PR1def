@@ -77,10 +77,11 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestro GitHub.
 Usamos Git para el versionado
 
 ## Autores ✒️
+```
 -David Ortega
 -Arnau Balart
 -Iván Aguinaga
-
+```
 ## Licencia 📄
 Este proyecto está bajo la Licencia (DawLicense.Sl) 
 
