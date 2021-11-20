@@ -37,3 +37,9 @@ que sería el fihceor sql-> bd_restaurant.sql
 
 Una vez hecho eso y habiendo hecho el apartado de "comezando" ya lo tendríamos listo para empezar a meter en el hosting
 ```
+
+## Ejecutando las pruebas ⚙️
+```
+Podemos hacer una prueba con el login, metemos uno de los usuarios con su contraseña(apartado comenzando) y si entramos al
+apartado home significará que la conexión y la integración de la base de datos funcionan correctamente.
+```
